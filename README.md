@@ -1,6 +1,6 @@
 # orientation_picker
 
-A simple convenience widget for [Flutter](http://flutter.dev/) to conditionally display (or hide) other widgets based on device orientation (or aspect ratio).
+A simple convenience widget for [Flutter](https://flutter.dev/) to conditionally display (or hide) other widgets based on device orientation (or aspect ratio).
 
 ## Usage
 
