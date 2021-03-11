@@ -28,19 +28,13 @@ class OrientationPicker extends StatelessWidget {
   final Widget landscape;
 
   /// Pick a widget based on the orientation.
-  const OrientationPicker({@required this.portrait, @required this.landscape})
-      : assert(portrait != null),
-        assert(landscape != null);
+  const OrientationPicker({required this.portrait, required this.landscape});
 
   /// Display a widget in portrait mode only.
-  const OrientationPicker.portraitOnly(this.portrait)
-      : assert(portrait != null),
-        landscape = EMPTY;
+  const OrientationPicker.portraitOnly(this.portrait) : landscape = EMPTY;
 
   /// Display a widget in landscape mode only.
-  const OrientationPicker.landscapeOnly(this.landscape)
-      : assert(landscape != null),
-        portrait = EMPTY;
+  const OrientationPicker.landscapeOnly(this.landscape) : portrait = EMPTY;
 
   @override
   Widget build(BuildContext context) {

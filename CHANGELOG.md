@@ -1,3 +1,7 @@
+## [0.0.1] - 2021-03-11
+
+* Made null safe.  Updated to Dart 2.12.0/Flutter 2.0.1
+
 ## [0.0.1-dev.5] - 2021-03-11
 
 * Updated documentation and examples to conform to pub.dev conventions, maybe.

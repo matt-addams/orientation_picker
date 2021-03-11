@@ -1,11 +1,10 @@
 name: orientation_picker
 description: A simple convenience widget for Flutter to conditionally display (or hide) other widgets based on device orientation (or aspect ratio).
-version: 0.0.1-dev.5
+version: 0.0.1
 homepage: https://github.com/matt-addams/orientation_picker
 
 environment:
-  sdk: ">=2.8.0 <3.0.0"
-  flutter: ">=1.17.0"
+  sdk: ">=2.12.0 <3.0.0"
 
 dependencies:
   flutter:
@@ -14,6 +13,3 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
-
-flutter:
-
