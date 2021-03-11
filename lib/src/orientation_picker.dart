@@ -2,7 +2,8 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
-/// A small convenience widget to display or hide child widgets automatically based on orientation.
+/// A simple convenience widget for Flutter to conditionally display (or hide) other widgets based on device orientation
+/// (or aspect ratio).
 library orientation_picker;
 
 import 'package:flutter/widgets.dart';

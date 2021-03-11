@@ -1,3 +1,7 @@
+## [0.0.1-dev.5] - 2021-03-11
+
+* Updated documentation and examples to conform to pub.dev conventions, maybe.
+
 ## [0.0.1-dev.4] - 2021-03-11
 
 * Added Cupertino tests.
