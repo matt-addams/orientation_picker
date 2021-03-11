@@ -1,6 +1,6 @@
 name: orientation_picker
 description: Display (or hide) Flutter widgets based on orientation.
-version: 0.0.1-dev.2
+version: 0.0.1-dev.3
 homepage: https://github.com/matt-addams/orientation_picker
 
 environment:
