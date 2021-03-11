@@ -1,10 +1,10 @@
 # orientation_picker
 
-A small convenience widget to display or hide child widgets automatically based on orientation.
+A simple convenience widget for [Flutter](http://flutter.dev/) to conditionally display (or hide) other widgets based on device orientation (or aspect ratio).
 
 ## Usage
 
-### `OrientationPicker({@required Widget portrait, @required Widget landscape})`
+### `OrientationPicker({required Widget portrait, required Widget landscape})`
 
 Supply two widgets, one for portrait layout and the other for landscape layout.  The widget will pick the appropriate one based on the current orientation.
 
